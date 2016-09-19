@@ -3,9 +3,9 @@ title: RLWB
 subtitle: 前途似海  来日方长
 welcome_message: <a href="https://github.com/rlwb" target="_blank">Download the theme</a>
 description: Vno Jekyll is a port of my Ghost theme vno.
-creator: <a href="http://onev.cat">@onevcat</a>
+creator: <a href="https://item.taobao.com/item.htm?spm=686.1000925.0.0.BiEjdx&id=538655619568">@rlwb</a>
 
-url: "http://vno.onevcat.com"
+url: "https://item.taobao.com/item.htm?spm=686.1000925.0.0.BiEjdx&id=538655619568"
 
 permalink: /:year/:month/:title/
 
@@ -17,12 +17,12 @@ cover_color: red
 
 # The blog button should not be removed.
 blog_button:
-    title: Blog
+    title: 文章
     description: Visit blog
 
 # Navigation buttons in the front page.
 nav:
-    - {title: Projects, description: My Projects, url: 'http://project.onevcat.com'}
+    - {title: 购买, description: 店铺, url: 'https://item.taobao.com/item.htm?spm=686.1000925.0.0.BiEjdx&id=538655619568'}
     # - {title: Another Button, description: A button, url: 'http://example.com'}
 
 # Pagination
@@ -32,16 +32,16 @@ paginate_path: "page/:num/"
 
 # Comment
 comment:
-    disqus: vno-jekyll
+    disqus: rlwb-jekyll
     # duoshuo: 
     
 # Social
 social:
-    weibo: onevcat
-    github: onevcat
-    twitter: onevcat
-    gplus: 107108267983477358170
-    mail: onev@onevcat.com
+    weibo: rlwb
+    github: rlwb
+    twitter: rlwb
+    gplus: rlwb1017669154@gmail.com
+    mail: rlwb1017669154@gmail.com
 
 # Google Analytics
 ga:
