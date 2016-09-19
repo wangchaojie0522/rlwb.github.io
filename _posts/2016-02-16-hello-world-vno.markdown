@@ -1,44 +1,24 @@
 ---
 layout: post
-title: Hello World - Vno
+title: Wingy教程
 date: 2016-02-16 15:32:24.000000000 +09:00
 ---
+本文给大家介绍下安装好了Wingy后怎么使用的教程。
 
-#### What's this
 
-[Vno Jekyll](https://github.com/onevcat/vno-jekyll) is a theme for [Jekyll](http://jekyllrb.com). It is a port of my Ghost theme [vno](https://github.com/onevcat/vno), which is originally developed from [Dale Anthony's Uno](https://github.com/daleanthony/uno).
 
-#### Usage
+安装Wingy APP
 
-```bash
-$ git clone https://github.com/onevcat/vno-jekyll.git your_site
-$ cd your_site
-$ bundler install
-$ bundler exec jekyll serve
-```
+使用Wingy进行科学上网，首先当然是要安装Wingy这款APP了。
+安装地址：https://www.wingy.site/appstore.html
+安装过程很简单，直接在苹果的AppStore搜索Wingy，安装就可以了。
 
-Your site with `Vno Jekyll` enabled should be accessible in http://127.0.0.1:4000.
 
-For more information about Jekyll, please visit [Jekyll's site](http://jekyllrb.com).
+获取SS账号
 
-#### Configuration
+使用Wingy，除了安装APP外，还需要一个SS账号，SS账号一般的获取方式是自己搭建SS服务器，或者购买别人的SS账号，或者找网上的免费SS账号使用。
+Wingy教程网为大家分享了一个免费的SS账号，地址为：https://www.wingy.site/freess.html
 
-All configuration could be done in `_config.yml`. Remember you need to restart to serve the page when after changing the config file. Everything in the config file should be self-explanatory.
+配置Wingy APP科学上网
 
-#### Background image and avatar
-
-You could replace the background and avatar image in `assets/images` folder to change them.
-
-#### Sites using Vno
-
-[My blog](http://onevcat.com) is using `Vno Jekyll` as well, you could see how it works in real. There are some other sites using the same theme. You can find them below:
-
-| Site Name    | URL                          |
-| ------------ | -----------------------------|
-| OneV's Den   | http://onevcat.com           |
-
-> If you happen to be using this theme, welcome to [send me a pull request](https://github.com/onevcat/vno-jekyll/pulls) to add your site link here. :)
-
-#### License
-
-Great thanks to [Dale Anthony](https://github.com/daleanthony) and his [Uno](https://github.com/daleanthony/uno). Vno Jekyll is based on Uno, and contains a lot of modification on page layout, animation, font and some more things I can not remember. Vno Jekyll is followed with Uno and be licensed as [Creative Commons Attribution 4.0 International](http://creativecommons.org/licenses/by/4.0/). See the link for more information.
+准备好了APP和SS账号后，就开始配置Wingy了
